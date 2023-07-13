@@ -39,4 +39,3 @@ while(donacion != "fin"){
 console.log("Fin del while");
 
 
-
